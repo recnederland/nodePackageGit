@@ -1,0 +1,20 @@
+{
+  "name": "makepackge",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "recep": "echo 'The author is recep'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "example",
+    "packge"
+  ],
+  "author": "recep bayram",
+  "license": "ISC",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  }
+}
